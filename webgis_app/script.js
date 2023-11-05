@@ -17,7 +17,7 @@ var titikData = {
                 coordinates: [0, 0]
             }
         },
-        // Tambahkan data titik lainnya
+        
     ]
 };
 
@@ -35,7 +35,7 @@ var garisData = {
                 ]
             }
         },
-        // Tambahkan data garis lainnya
+        
     ]
 };
 
@@ -58,7 +58,7 @@ var polygonData = {
                 ]
             }
         },
-        // Tambahkan data polygon lainnya
+        
     ]
 };
 
